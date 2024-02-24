@@ -24,6 +24,6 @@ To run the SQL queries and view the datasets, follow these steps:
 
 ## Project Structure
 📁
-- `COVID19 Analysis Portfolio Project.sql`: Contains all the SQL queries used for the analysis.
+- `COVID19_Analysis_Project.sql`: Contains all the SQL queries used for the analysis.
 - `CovidDeaths.xlsx`: Excel file with COVID-19 death data.
 - `CovidVaccination.xlsx`: Excel file with COVID-19 vaccination data.
